@@ -1,6 +1,6 @@
-# 📊 DemoTM-ProductTeam – Data Analytics Projects
+# 📊 TM Portfolio
 
-Repository này tổng hợp **3 dự án phân tích dữ liệu & nghiên cứu thị trường**, được thực hiện bởi **DemoTM-ProductTeam**, tập trung vào **thị trường sữa Việt Nam** và **đánh giá hiệu quả hoạt động marketing** dựa trên dữ liệu thực tế.
+Portfolio này tổng hợp **3 dự án phân tích dữ liệu & nghiên cứu thị trường**, được thực hiện bởi **DemoTM-ProductTeam**, tập trung vào **thị trường sữa Việt Nam** và **đánh giá hiệu quả hoạt động marketing** dựa trên dữ liệu thực tế.
 
 Các dự án được xây dựng theo tư duy **data-driven decision making**, hướng đến việc trả lời các câu hỏi kinh doanh thay vì chỉ dừng lại ở mô tả dữ liệu.
 
