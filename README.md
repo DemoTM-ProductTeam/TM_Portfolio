@@ -18,7 +18,7 @@ Các dự án được xây dựng theo tư duy **data-driven decision making**,
 
 ## Project01 – Vietnam Milk Market Performance Analysis
 
-🔗 Repository: https://github.com/DemoTM-ProductTeam/Project01  
+🔗 Repository: https://github.com/DemoTM-ProductTeam/Project01  --please open in new tab
 
 ### Mục tiêu
 Phân tích tổng quan **hiệu quả hoạt động của thị trường sữa Việt Nam**, từ đó xác định các xu hướng chính và bức tranh cạnh tranh toàn ngành.
